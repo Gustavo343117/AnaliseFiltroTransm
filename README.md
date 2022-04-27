@@ -6,8 +6,8 @@
 <div class="snippet-clipboard-content position-relative overflow-auto">
 <ul>
 <li><code class="notranslate">Espectrorradi&ocirc;metro SM-3500 que mede a radi&acirc;ncia refletida pelo alvo (foi feito um v&iacute;deo com a descri&ccedil;&atilde;o do equipamento: <a href="https://youtu.be/Lao9VqGpWFU" target="_blank">https://youtu.be/Lao9VqGpWFU</a>);</code></li>
-<li><code class="notranslate">Fonte de ilumina&ccedil;&atilde;o hal&oacute;gena de 5 Watts, que apresenta espectro de emiss&atilde;o cont&iacute;nuo equivalente ao solar;
-Placa de refer&ecirc;ncia spectralon.
+<li><code class="notranslate">Fonte de ilumina&ccedil;&atilde;o hal&oacute;gena de 5 Watts, que apresenta espectro de emiss&atilde;o cont&iacute;nuo equivalente ao solar;</code></li>
+<li><code class="notranslate">Placa de refer&ecirc;ncia spectralon.
 </code></li>
 </ul>
 </div>
